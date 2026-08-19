@@ -46,7 +46,7 @@ x-defunct-evidence:
     by Woven Planet, the advanced mobility subsidiary of the Toyota Motor Corporation!"'
 - source: dns
   note: carmera.com returns no A record (probed 2026-07-20); api./docs./developer.carmera.com do not resolve.
-specificationVersion: '0.20'
+specificationVersion: '0.23'
 created: '2026-07-17'
 modified: '2026-07-20'
 tags:

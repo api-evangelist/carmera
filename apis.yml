@@ -41,7 +41,7 @@ x-backed-by:
 - gv
 x-tier: stub
 x-tier-reason: portfolio-lead
-x-status: acquired
+x-status: defunct
 x-status-detail: Acquired July 2021 by Woven Planet (Woven by Toyota), the advanced mobility subsidiary
   of Toyota Motor Corporation. Primary domain carmera.com no longer resolves (NS delegated to a parking
   registrar, no A record); carmera.io and carmera.ai serve domain-lander pages unrelated to the original
@@ -59,7 +59,7 @@ x-defunct-evidence:
   note: carmera.com returns no A record (probed 2026-07-20); api./docs./developer.carmera.com do not resolve.
 specificationVersion: '0.23'
 created: '2026-07-17'
-modified: '2026-07-20'
+modified: '2026-09-15'
 tags:
 - Company
 - Frontier Tech

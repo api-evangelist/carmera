@@ -64,38 +64,28 @@
 > Full detail: **[Where this data comes from](https://apievangelist.com/about/where-our-data-comes-from)**
 <!-- API-EVANGELIST-PROVENANCE:END -->
 
-**Status: acquired / no live API surface.**
+> **No longer operating.** This company or product has shut down, been discontinued, or been deprecated. This profile is kept as a historical record and is not maintained or rated.
 
-CARMERA was a New York City based road-intelligence and HD mapping company that provided
-"change-as-a-service" map maintenance for autonomous driving, mobility-as-a-service and consumer
-navigation. It used consumer-grade cameras mounted on commercial fleet vehicles as crowdsourced
-visual probes to detect permanent road inventory change (signs, signals, lane markings) and
-temporary closure events (construction), then regenerated both HD and SD maps in near real time.
+CARMERA was a New York City based road-intelligence and HD mapping company that provided "change-as-a-service" map maintenance for autonomous driving, mobility-as-a-service and consumer navigation. It used consumer-grade cameras mounted on commercial fleet vehicles as crowdsourced visual probes to detect permanent road inventory change (signs, signals, lane markings) and temporary closure events (construction), then regenerated both HD and SD maps in near real time. Its commercial offering was described as detection APIs that identify map-impacting events plus vector APIs that deliver map updates, layered over a customer-supplied or CARMERA-supplied base map. The company was backed by GV and was acquired in July 2021 by Woven Planet (now Woven by Toyota), the advanced mobility subsidiary of Toyota Motor Corporation. Its APIs were sold under enterprise agreements and were never published as a public developer program; as of this enrichment pass the carmera.com domain no longer resolves and no developer portal, documentation, SDK, or API artifact survives.
 
-Its commercial offering was described as detection APIs that identify map-impacting events plus
-vector APIs that deliver map updates, layered over a customer-supplied or CARMERA-supplied base map.
-Those APIs were sold under enterprise agreements and were never published as a public developer
-program.
+**Areas:** Company · Frontier Tech · Mapping · HD Maps · Geospatial · Autonomous Vehicles · Automotive · Mobility · Acquired · Defunct
 
-Backed by: gv
+## Carmera * on APIs.io (historical record)
 
-## Acquisition
+Everything profiled for Carmera * is published on APIs.io rather than in this repository. Start at the provider page — **[apis.io/providers/carmera/](https://apis.io/providers/carmera/)** — or go straight to one of the APIs or properties below.
 
-Acquired **July 2021** by **Woven Planet** (now [Woven by Toyota](https://woven.toyota/en/)), the
-advanced mobility subsidiary of Toyota Motor Corporation.
+## API Evangelist rating
 
-## Enrichment findings (2026-07-20)
+**Not rated** — this company is recorded as no longer operating, so no score is published. If it is in fact operating, say so on this repository and it will be re-profiled.
 
-No artifacts were produced — there is nothing left to harvest, and nothing was fabricated.
+## How this profile is made
 
-| Probe | Result |
-|---|---|
-| `carmera.com`, `www.`, `api.`, `docs.`, `developer.` | No A record — domain does not resolve |
-| `carmera.io` / `carmera.ai` | Domain-lander / GoDaddy parking pages, unrelated to the company |
-| GitHub organization `carmera` | 404 (the handle is an unrelated personal account) |
-| npm search `carmera` | 0 results |
-| PyPI `carmera` | 404 |
-| Archived site (2021-12-27) | `about/`, `solutions/`, `fleets/`, `join/`, `privacy/`, `terms/`, Medium blog — no developer portal, docs, API reference, or spec |
+API Evangelist profiles a company's public API surface the way a developer would find it: the website, developer portal and documentation, the specifications it publishes, its public repositories, and its pricing, status and changelog pages. From that it derives the properties above — contracts split per API, workflows, schemas, collections, governance rules, plans and rate limits — and scores them against the published [Kin Score rubric](https://github.com/api-evangelist/kin-score).
 
-Last archived homepage:
-<http://web.archive.org/web/20211227182124/https://www.carmera.com/>
+The artifacts are published on [APIs.io](https://apis.io), not in this repository. This repository is the public record for Carmera *: the place to say something is wrong, missing or out of date, and to ask for a re-score or a removal.
+
+## Open an issue
+
+- **Something about this listing** — a wrong description, a missing API, a stale artifact or a question about the rating: [open an issue on this repository](https://github.com/api-evangelist/carmera/issues/new).
+- **A new API, or one that is not in the catalog yet** — [submit it on APIs.io](https://apis.io/add/).
+- **Anything else** — [the APIs.io inbox](https://github.com/api-search/inbox/issues/new) or [info@apievangelist.com](mailto:info@apievangelist.com).
